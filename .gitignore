@@ -1,0 +1,12 @@
+*.iml
+.gradle
+#/.idea чтобы не попадало на гит
+/local.properties
+/.idea
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
